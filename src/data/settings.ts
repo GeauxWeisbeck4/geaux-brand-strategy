@@ -1,6 +1,6 @@
 export const settings = {
-  site: 'https://cannonball.littlesticks.dev',
-  name: 'Little Sticks',
-  title: 'Cannonball by Little Sticks | A splash page template',
-  description: 'This is a simple splash page template built with Astro by Little Sticks',
+  site: 'https://geauxsbrandstrategy.netlify.app',
+  name: 'Geauxs Brand Strategy Sprint',
+  title: 'Geauxs Brand Strategy Sprint | Andrew Weisbeck and Section4',
+  description: 'This is the website and blog for the brand strategy sprint for Section4.',
 }
